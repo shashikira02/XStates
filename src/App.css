@@ -1,0 +1,20 @@
+.location {
+    max-width: 400px;
+    margin: 2rem auto;
+    padding: 1rem;
+    border: 1px solid #000;
+    border-radius: 3px;
+    font-family: sans-serif;
+}
+
+.location select {
+    width: 100%;
+    margin-bottom: 1rem;
+    padding: 0.4rem;
+}
+
+.location result {
+    margin-top: 1rem;
+    font-weight: bold;
+    color: #2c3e50;
+}
